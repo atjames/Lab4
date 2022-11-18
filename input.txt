@@ -1,0 +1,8 @@
+NumofProc: 5
+Q = 5
+Process_name CPU_burst
+P1 20
+P2 29
+P3 7
+P4 15
+P5 58
